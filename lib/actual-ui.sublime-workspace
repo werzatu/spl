@@ -1,0 +1,410 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is",
+				"isRelated"
+			],
+			[
+				"data",
+				"dataKey"
+			],
+			[
+				"mou",
+				"mouse"
+			],
+			[
+				"mar",
+				"bottomMargin"
+			],
+			[
+				"hid",
+				"hideTooltip"
+			],
+			[
+				"impairment",
+				"impairmentHit"
+			],
+			[
+				"tool",
+				"tooltipIsVisible"
+			],
+			[
+				"curr",
+				"currentSnap"
+			],
+			[
+				"page",
+				"pageSource"
+			],
+			[
+				"x",
+				"xMin"
+			],
+			[
+				"min",
+				"minMaxValues"
+			],
+			[
+				"lib",
+				"library"
+			],
+			[
+				"SHORT",
+				"SHORT"
+			],
+			[
+				"getDayO",
+				"getDayOfWeek"
+			],
+			[
+				"format",
+				"formatString"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "JsPrettier",
+		"selected_items":
+		[
+			[
+				"JsPrettier",
+				"JsPrettier: Format Code"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"diff",
+				"Git: Diff All Files"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"them",
+				"UI: Select Color Scheme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remve",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/colinadams/development/actual-ui"
+	],
+	"file_history":
+	[
+		"/Users/colinadams/.subl-proj-config",
+		"/Users/colinadams/my-dev/subl-proj-loader/lib/index.js",
+		"/Users/colinadams/my-dev/subl-proj-loader/.eslintrc",
+		"/Users/colinadams/development/actualwork/remove-flow.js",
+		"/Users/colinadams/development/actualwork/.gitignore",
+		"/Users/colinadams/development/projects/admin.sublime-project",
+		"/Users/colinadams/development/actualwork/.babelrc",
+		"/Users/colinadams/development/actualwork/src/app.js",
+		"/Users/colinadams/development/actualwork/src/setup/reducer.js",
+		"/Users/colinadams/development/actualwork/.eslintrc",
+		"/Users/colinadams/development/actualwork/.prettierignore",
+		"/Users/colinadams/development/actualwork/package.json",
+		"/Users/colinadams/development/actualwork/src/setup/actions/base-groups/cache.js",
+		"/Users/colinadams/development/actualwork/webpack.config.js",
+		"/Users/colinadams/development/actualwork/src/ae_modules/actual-ui.js",
+		"/Users/colinadams/development/actualwork/src/setup/actions/targets.js",
+		"/Users/colinadams/development/actualwork/src/setup/actions/cache/methods/getTotalDUCustomGroupConnections.js",
+		"/Users/colinadams/development/actualwork/src/setup/actions/cache/methods/getCustomGroupsContainingDU.js",
+		"/Users/colinadams/development/actualwork/src/setup/actions/cache/methods/getByType.js",
+		"/Users/colinadams/development/actualwork/src/setup/actions/cache/methods/getByProp.js",
+		"/Users/colinadams/development/actualwork/src/setup/libs/utils.js",
+		"/Users/colinadams/development/actualwork/src/setup/components/inspector/content-panel/element-list/index.js",
+		"/Users/colinadams/development/analytics-ui/src/components/charts/quality-history/index.js",
+		"/Users/colinadams/development/analytics-ui/src/components/charts/quality-history/chart.js",
+		"/Users/colinadams/development/analytics-ui/src/actions/ui/measurement-explorer.js",
+		"/Users/colinadams/development/analytics-ui/src/containers/charts/measurement-explorer/details/index.js",
+		"/Users/colinadams/development/analytics-ui/src/components/charts/measurement-explorer/chart.js",
+		"/Users/colinadams/development/analytics-ui/src/store.js",
+		"/Users/colinadams/development/analytics-ui/src/style/scss/components/measurement-explorer/_measurement-explorer-chart-info.scss",
+		"/Users/colinadams/development/analytics-ui/src/components/measurement-explorer/content/list/measurement-explorer-list-result/impairments-ip.js",
+		"/Users/colinadams/development/analytics-ui/src/containers/charts/measurement-explorer/measurement-explorer-impairment-info.js",
+		"/Users/colinadams/development/analytics-ui/src/app.js",
+		"/Users/colinadams/development/analytics-ui/src/components/charts/measurement-explorer/details/index.js",
+		"/Users/colinadams/development/analytics-ui/src/style/scss/helpers/charts/_charts-constants.scss",
+		"/Users/colinadams/development/analytics-ui/src/actions/ui/charts/tooltips.js",
+		"/Users/colinadams/development/analytics-ui/src/components/charts/measurement-explorer/measurement-explorer-impairment-info.js",
+		"/Users/colinadams/development/analytics-ui/src/base-components/emails/add.js",
+		"/Users/colinadams/development/analytics-ui/src/containers/charts/measurement-explorer/index.js",
+		"/Users/colinadams/development/analytics-ui/src/containers/measurement-explorer/content/list/measurement-explorer-list-result/impairments-ip.js",
+		"/Users/colinadams/development/analytics-ui/src/actions/business-sync/charts/measurement-explorer.js",
+		"/Users/colinadams/development/analytics-ui/src/constants/chart-tooltips.js",
+		"/Users/colinadams/development/analytics-ui/src/actions/business-sync/charts/index.js",
+		"/Users/colinadams/development/analytics-ui/src/actions/business/charts/measurement-explorer.js",
+		"/Users/colinadams/development/analytics-ui/src/reducers/measurement-explorer.js",
+		"/Users/colinadams/development/analytics-ui/src/actions/state/measurement-explorer.js",
+		"/Users/colinadams/development/analytics-ui/src/components/charts/measurement-explorer/index.js",
+		"/Users/colinadams/development/analytics-ui/src/actions/business-sync/charts/tooltips.js",
+		"/Users/colinadams/development/analytics-ui/src/actions/business-sync/measurement-explorer.js",
+		"/Users/colinadams/development/analytics-ui/src/actions/ui/charts/index.js",
+		"/Users/colinadams/development/analytics-ui/src/ae-modules/chart-wrapper/chart-wrapper.js",
+		"/Users/colinadams/development/analytics-ui/src/constants/charts.js",
+		"/Users/colinadams/development/analytics-ui/src/components/calendar/index.js",
+		"/Users/colinadams/development/analytics-ui/src/actions/libs/dates.js",
+		"/Users/colinadams/development/analytics-ui/test/actions/libs/dates-test.js",
+		"/Users/colinadams/development/analytics-ui/src/reducers/settings.js",
+		"/Users/colinadams/development/analytics-ui/src/actions/libs/charts.js",
+		"/Users/colinadams/development/analytics-ui/src/actions/business/charts/supplier-management.js",
+		"/Users/colinadams/development/analytics-ui/src/components/charts/scatter/chart.js",
+		"/Users/colinadams/development/analytics-ui/src/actions/business/charts/scatter.js",
+		"/Users/colinadams/development/analytics-ui/src/actions/ui/summary.js",
+		"/Users/colinadams/development/analytics-ui/src/ae-modules/chart-wrapper/chart-wrapper-with-loading.js",
+		"/Users/colinadams/development/analytics-ui/src/ae-modules/chart-wrapper/index.js",
+		"/Users/colinadams/development/analytics-ui/src/actions/business/charts/quality-history.js",
+		"/Users/colinadams/development/analytics-ui/src/actions/business/charts/events.js",
+		"/Users/colinadams/development/analytics-ui/src/actions/ui/event-definition.js",
+		"/Users/colinadams/development/analytics-ui/src/actions/business/charts/index.js",
+		"/Users/colinadams/development/analytics-ui/src/actions/ui/charts/scatter.js",
+		"/Users/colinadams/development/analytics-ui/src/reducers/charts.js",
+		"/Users/colinadams/development/analytics-ui/src/reducers/loading.js",
+		"/Users/colinadams/development/analytics-ui/src/components/charts/scatter/index.js",
+		"/Users/colinadams/development/actualwork/src/setup/actions/du-group.js",
+		"/Users/colinadams/development/actualwork/src/setup/actions/designer/select.js",
+		"/Users/colinadams/development/actualwork/src/setup/components/canvas/index.js",
+		"/Users/colinadams/development/actualwork/src/setup/components/designer/index.js",
+		"/Users/colinadams/development/actualwork/src/setup/actions/libraries/index.js",
+		"/Users/colinadams/development/actualwork/src/setup/middleware/elements-cache.js",
+		"/Users/colinadams/development/actualwork/src/setup/actions/counts.js",
+		"/Users/colinadams/development/actualwork/src/setup/reducers/libraries.js",
+		"/Users/colinadams/development/actualwork/src/setup/actions/types/libraries.js",
+		"/Users/colinadams/development/actualwork/src/setup/actions/du.js",
+		"/Users/colinadams/my-dev/utc-date/package.json",
+		"/Users/colinadams/my-dev/utc-date/src/helpers.js",
+		"/Users/colinadams/my-dev/utc-date/src/tmp.js",
+		"/Users/colinadams/my-dev/utc-date/src/constants.js",
+		"/Users/colinadams/my-dev/utc-date/src/utc-date-class.js",
+		"/Users/colinadams/development/actualwork/src/setup/libs/designer-state-helpers.js",
+		"/Users/colinadams/development/actualwork/src/setup/actions/designer/elements.js",
+		"/Users/colinadams/development/actualwork/src/setup/actions/designer/create.js",
+		"/Users/colinadams/development/actualwork/src/setup/actions/datagrid.js",
+		"/Users/colinadams/development/actualwork/src/setup/actions/canvas.js",
+		"/Users/colinadams/development/actualwork/src/setup/actions/group-spg.js",
+		"/Users/colinadams/development/analytics-ui/src/actions/ui/charts/quality-history.js",
+		"/Users/colinadams/development/analytics-ui/src/components/charts/supplier-management/chart.js",
+		"/Users/colinadams/my-dev/utc-date/test/test-values.js",
+		"/Users/colinadams/my-dev/utc-date/src/index.js",
+		"/Users/colinadams/development/actualwork/src/setup/actions/designer/connections.js",
+		"/Users/colinadams/development/actualwork/src/setup/containers/canvas/index.js",
+		"/Users/colinadams/development/actualwork/src/setup/containers/designer.js",
+		"/Users/colinadams/development/actualwork/src/setup/reducers/canvas.js",
+		"/Users/colinadams/development/actualwork/src/setup/actions/designer/common.js",
+		"/Users/colinadams/development/actualwork/src/setup/components/canvas/canvas-column.js",
+		"/Users/colinadams/development/actualwork/src/setup/logic/actions/canvas.js",
+		"/Users/colinadams/development/actualwork/src/setup/constants/action-types/canvas.js",
+		"/Users/colinadams/development/actualwork/src/setup/logic/business-sync/canvas.js",
+		"/Users/colinadams/development/actualwork/src/setup/constants/action-types",
+		"/Users/colinadams/development/actualwork/src/setup/actions/types/canvas.js",
+		"/Users/colinadams/development/analytics-ui/src/👻🌕 jsPerf: JavaScript performance playground",
+		"/Users/colinadams/my-dev/utc-date/.eslintrc",
+		"/Users/colinadams/my-dev/utc-date/test/helpers/get-ms-from-time-unit-test.js",
+		"/Users/colinadams/my-dev/utc-date/test/class/format-test.js",
+		"/Users/colinadams/my-dev/utc-date/src/methods.js",
+		"/Users/colinadams/my-dev/utc-date/node_modules/babylon/lib/index.js",
+		"/Users/colinadams/my-dev/utc-date/test/helpers/prefix-unit-zero-signed-test.js",
+		"/Users/colinadams/my-dev/utc-date/moment.min.js"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 103.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "actual-ui.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"yle/scss/helpers/charts/_charts-constan",
+				"src/style/scss/helpers/charts/_charts-constants.scss"
+			],
+			[
+				"stants/chart-tooltip",
+				"src/constants/chart-tooltips.js"
+			],
+			[
+				"etup/actions/designer/commo",
+				"src/setup/actions/designer/common.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 306.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
