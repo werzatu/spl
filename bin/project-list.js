@@ -1,0 +1,1 @@
+const myLib = require('../lib/index.js');

@@ -1,0 +1,28 @@
+{
+  "name": "subl-proj-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "sp": "./bin/project-list.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fixiecoder/subl-proj-loader.git"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "chalk": "^2.4.0",
+    "commander": "^2.15.1",
+    "prompt": "^1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fixiecoder/subl-proj-loader/issues"
+  },
+  "homepage": "https://github.com/fixiecoder/subl-proj-loader#readme"
+}

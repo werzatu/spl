@@ -1,0 +1,67 @@
+{
+  "env": {
+    "browser": true,
+    "jasmine": true,
+    "es6": true,
+    "worker": true
+  },
+
+  "parser": "babel-eslint",
+
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true,
+      "experimentalObjectRestSpread": true
+    }
+  },
+
+  "extends": [
+    "airbnb/base",
+  ],
+
+  "settings": {
+  },
+
+  "rules": {
+    "no-useless-escape": 0,
+    "class-methods-use-this": 0,
+    "arrow-parens": 0,
+    "no-underscore-dangle": 0,
+    "max-len": [ 1, 120, 2, { "ignoreComments": true } ],
+    "padded-blocks": 0,
+    "camelcase": 0,
+    "no-unused-vars": [1, { "vars": "local", "args": "after-used" }],
+    "comma-dangle": 0,
+    "spaced-comment": 0,
+    "default-case": 0,
+    "prefer-spread": 0,
+    "no-param-reassign": 0,
+    "space-infix-ops": 1,
+    "radix": 0,
+    "no-else-return": 0,
+    "space-before-function-paren": 0,
+    "no-restricted-syntax": [
+      2,
+      "DebuggerStatement",
+      "LabeledStatement",
+      "WithStatement"
+    ],
+    "keyword-spacing": [ 2, {
+      "before": true,
+      "after": true,
+      "overrides": {
+        "if": { "after": false },
+        "switch": { "after": false },
+        "catch": { "after": false },
+        "for": { "after": false },
+        "function": { "after": false }
+      }
+    } ],
+
+    "import/no-unresolved": 0,
+    "import/no-extraneous-dependencies": 0,
+    "import/imports-first": 1,
+    "import/extensions": 0,
+    "import/prefer-default-export": 0
+  }
+}
