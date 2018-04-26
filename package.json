@@ -1,13 +1,14 @@
 {
-  "name": "subl-proj-loader",
-  "version": "1.0.0",
-  "description": "",
+  "name": "spl",
+  "version": "0.0.1",
+  "description": "Sublime Project Loader",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "sp": "./bin/project-list.js"
+    "sp": "./bin/project-list.js",
+    "spl": "./bin/project-list.js"
   },
   "repository": {
     "type": "git",
