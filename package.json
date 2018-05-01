@@ -1,6 +1,6 @@
 {
   "name": "spl",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Sublime Project Loader",
   "main": "lib/index.js",
   "scripts": {
@@ -21,7 +21,14 @@
     "prompt": "^1.0.0"
   },
   "author": "",
-  "keywords": ["sublime", "projects", "project", "menu", "loader", "spl"],
+  "keywords": [
+    "sublime",
+    "projects",
+    "project",
+    "menu",
+    "loader",
+    "spl"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/werzatu/spl/issues"
